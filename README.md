@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A project using AWS and JavaScript**
 
-- 🌱 I’m currently learning **Remix**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [Akwei.co.uk](Akwei.co.uk)
 

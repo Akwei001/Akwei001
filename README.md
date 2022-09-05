@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akwei</h1>
 <h3 align="center">A passionate fullstack developer from Birmingham</h3>
 
-- 🔭 I’m currently working on **A project using AWS and JavaScript**
+- 🔭 I’m currently studying for the **AWS Certified Cloud Practitioner exam**
 
 - 🌱 I’m currently learning **Next JS**
 
